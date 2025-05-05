@@ -2,6 +2,7 @@
 A comprehensive SQL + Python-based project analyzing debt collection performance, uncovering trends in payment behaviors, and providing actionable insights to improve recovery strategies. This project is ideal for data science learners, analysts, and anyone interested in real-world financial data analysis.
 
 🚀 Project Objectives
+
 Extract debt collection data from a SQL database
 
 Clean and transform the data using Python (pandas)
@@ -26,6 +27,7 @@ Jupyter Notebook – for interactive development
 MySQL Workbench – for executing SQL queries
 
 📁 Project Structure
+
 bash
 Copy
 Edit
@@ -45,7 +47,10 @@ Debt-Collection-Analysis-Project/
 │
 ├── requirements.txt                    # List of Python libraries used
 └── README.md                           # Project overview and documentation
+
+
 📊 Dataset Overview
+
 The dataset includes the following fields:
 
 Debtor ID
